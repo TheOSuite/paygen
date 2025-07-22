@@ -1,5 +1,9 @@
 # Advanced XSS Payload Generator
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/github/license/TheOSuite/paygen)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+
 An intuitive GUI tool built with Python's Tkinter that helps security researchers and developers craft various Cross-Site Scripting (XSS) payloads efficiently. It offers customizable payload templates, multiple encoding options, and real-time previews to streamline testing and exploitation workflows.
 
 ---
